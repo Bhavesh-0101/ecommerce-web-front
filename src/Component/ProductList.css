@@ -1,0 +1,29 @@
+
+
+.container {
+    margin: 40px;
+}
+
+.shopping-icon {
+    position: fixed;
+    z-index: 100;
+    right: 30px;
+    top: 20px;
+    cursor:pointer;
+}
+
+.paymentHistory {
+    position: fixed;
+    z-index: 100;
+    right: 100px;
+    top: 20px;
+    cursor:pointer;
+}
+
+.filterValue {
+    position: fixed;
+    z-index: 100;
+    left: 100px;
+    top: 20px;
+    cursor:pointer;
+}
